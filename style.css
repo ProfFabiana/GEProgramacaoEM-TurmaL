@@ -4,8 +4,10 @@ body {
 }
 
 #foto1 {
-    max-width: max-content;
-}
+    width: 100%;
+    }
+
+
 p { text-align: justify
 
 }
