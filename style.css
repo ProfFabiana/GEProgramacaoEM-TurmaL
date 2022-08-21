@@ -15,3 +15,8 @@ p { text-align: justify
 strong {
     color: rgb(20, 70, 238);
 }
+
+.itens {
+    font-style: italic
+    
+}
