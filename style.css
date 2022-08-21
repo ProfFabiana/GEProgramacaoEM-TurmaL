@@ -3,6 +3,9 @@ body {
     background-color: #cccccc 
 }
 
+#foto1 {
+    max-width: max-content;
+}
 p { text-align: justify
 
 }
