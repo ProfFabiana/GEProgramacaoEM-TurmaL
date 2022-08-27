@@ -21,4 +21,13 @@ strong {
     
 }
 
-.imagemmapa {width: 50% ;}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagemmapa {width: 50% 
+
+}
