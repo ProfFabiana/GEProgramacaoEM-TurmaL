@@ -1,9 +1,12 @@
 
 body {
     background-color: #cccccc;
-    padding: 20px;
 }
-
+    
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
 
 #foto1 {
     width: 100%;
