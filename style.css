@@ -1,7 +1,9 @@
 
 body {
-    background-color: #cccccc 
+    background-color: #cccccc;
+    padding: 20px;
 }
+
 
 #foto1 {
     width: 100%;
